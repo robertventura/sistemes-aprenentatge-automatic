@@ -11,8 +11,8 @@ Tags:#FpInfor #CEFPIC03 #IA&BIGDATA #CursEspecialitzacióInteligènciaArtificial
 Contingut
 =========
 
-- 1: Tractament de dades
-- 2:  
+- 1: [Tractament de dades](01_tractament_dades)
+- 2: [Sistemes d'Aprenentatge Supervisat](02_models_supervisats) 
 
 Llicència
 ===================================
