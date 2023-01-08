@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+#-- -----------------------------------------------------
+#-- Implementació de l'algorisme Forward Selection
+#-- per una regressió lineal múltiple
+#--
+#-- Autor: Robert Ventura
+#-- -----------------------------------------------------
 
 import statsmodels.formula.api as smf
 import statsmodels.api as sm
