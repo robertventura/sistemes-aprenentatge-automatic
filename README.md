@@ -12,7 +12,7 @@ Contingut
 =========
 
 - 1: [Introducció i Tractament de dades]
-  - [📑 Contingut](NF1-Introducció Sistemes Aprenentatge Automatic.pdf)
+  - [📑 Contingut](NF1-Introducció%20Sistemes%20Aprenentatge%20Automatic.pdf)
   - [📔 Notebooks](01_introduccio)
   - 📝 Exercicis
 - 2: [Sistemes d'Aprenentatge Supervisat](02_models_supervisats) 
