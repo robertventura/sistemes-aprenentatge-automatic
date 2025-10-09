@@ -11,7 +11,7 @@ Tags:#FpInfor #CEFPIC03 #IA&BIGDATA #CursEspecialitzacióInteligènciaArtificial
 # 1. Introducció a l'Aprenentatge Automàtic *(Machine Learning)*
 - [📑 Contingut](NF1-Introducció%20Sistemes%20Aprenentatge%20Automatic.pdf)
 - [📔 Notebooks](01_introduccio)
-- 📝 Exercicis
+- [📝 Exercicis](01_introduccio/exercicis)
   
 # 2. Sistemes d'Aprenentatge Supervisat *(Supervised Models)*
   - 📑 Contingut
