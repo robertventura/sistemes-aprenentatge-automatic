@@ -24,7 +24,7 @@ Tags:#FpInfor #CEFPIC03 #IA&BIGDATA #CursEspecialitzacióInteligènciaArtificial
   - 📝 Exercicis
         
 # 4. Xarxes Neuronals  *(Neural Networks)*
-  - [📑 Contingut]((NF4-XarxesNeuronals.pdf)
+  - [📑 Contingut](NF4-XarxesNeuronals.pdf)
   - [📔 Notebooks](04_xarxes_neuronals)
   - 📝 Exercicis
  
