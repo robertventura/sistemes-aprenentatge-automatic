@@ -14,18 +14,18 @@ Tags:#FpInfor #CEFPIC03 #IA&BIGDATA #CursEspecialitzacióInteligènciaArtificial
 - [📝 Exercicis](01_introduccio/exercicis)
   
 # 2. Sistemes d'Aprenentatge Supervisat *(Supervised Models)*
-  - 📑 Contingut
-  - 📔 Notebooks
+  - [📑 Contingut](NF2-ModelsSupervisats.pdf)
+  - [📔 Notebooks](02_models_supervisats)
   - 📝 Exercicis
     
 # 3. Sistemes d'Aprenentatge No Supervisats *(Unsupervised Models)*
-  - 📑 Contingut
-  - 📔 Notebooks
+  - [📑 Contingut](NF3-ModelsNoSupervisats.pdf)
+  - [📔 Notebooks](03_models_no_supervisats)
   - 📝 Exercicis
         
 # 4. Xarxes Neuronals  *(Neural Networks)*
-  - 📑 Contingut
-  - 📔 Notebooks
+  - [📑 Contingut](NF4-XarxesNeuronals.pdf)
+  - [📔 Notebooks](04_xarxes_neuronals)
   - 📝 Exercicis
  
 
